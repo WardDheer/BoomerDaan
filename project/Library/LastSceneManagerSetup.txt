@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Maxim.unity
+- path: Assets/Scenes/Briek Test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
