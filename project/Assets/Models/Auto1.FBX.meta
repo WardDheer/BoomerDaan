@@ -6,6 +6,9 @@ ModelImporter:
   - first:
       74: 5506063749707952791
     second: Car
+  - first:
+      74: -2410433258591880078
+    second: Model Stylisation
   externalObjects: {}
   materials:
     materialImportMode: 1
